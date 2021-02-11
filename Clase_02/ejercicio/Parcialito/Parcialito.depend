@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613012847 source:c:\users\jorge\documents\fra\programacion_1_laboratorio_1\clase_02\ejercicio\parcialito\main.c
+	<stdio.h>
+	<stdlib.h>
+
