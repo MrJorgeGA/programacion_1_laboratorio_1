@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\jorge\documents\fra\programacion_1_laboratorio_1\clase_06\ejercicio2clase\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1613511628 source:c:\users\jorge\documents\fra\programacion_1_laboratorio_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
