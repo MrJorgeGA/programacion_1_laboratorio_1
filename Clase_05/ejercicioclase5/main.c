@@ -13,7 +13,7 @@ int main()
     int minimo;
     char respuesta;
     for (i=0;i<LONGITUD;i++) {
-        resultado = utn_getNumero(&v[i], "Ingrese un numero: ", "Error, ingreso no valido",INT_MIN,INT_MAX,3);
+        resultado = utn_getNumero(&v[i], "Ingrese un numero: ", "Error, ingreso no valido\n",INT_MIN,INT_MAX,3);
         if (resultado!=0) {
             printf("ERROR\n");
         } else {
